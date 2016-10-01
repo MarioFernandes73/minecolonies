@@ -22,6 +22,12 @@ public class BuildingHome extends AbstractBuildingHut
 {
     private static final String            TAG_RESIDENTS = "residents";
     private static final String            CITIZEN       = "Citizen";
+
+    /**
+     * The max level of the citizenHut.
+     */
+    private static final int MAX_BUILDING_LEVEL          = 5;
+
     @NotNull
     private              List<CitizenData> residents     = new ArrayList<>();
 
@@ -184,7 +190,7 @@ public class BuildingHome extends AbstractBuildingHut
     @Override
     public int getMaxBuildingLevel()
     {
-        return 4;
+        return MAX_BUILDING_LEVEL;
     }
 
     /**
