@@ -6,6 +6,16 @@
 [![Stories in Ready](https://badge.waffle.io/Minecolonies/minecolonies.png?label=help%20wanted&title=Help%20Wanted)](http://waffle.io/Minecolonies/minecolonies)
 [![BCH compliance](https://bettercodehub.com/edge/badge/inesgomes/minecolonies)](https://bettercodehub.com)
 
+
+![alt tag](resources/minecolonies.png)
+
+### About the mod ###
+
+   **MineColonies** is a mod for the famous game *Minecraft* from Mojang. This mod allows the user to generate many structures like ships, town halls, farms and even NPC's which are called workers. These workers can be assigned by the player to do various things ranging from building structures, gathering resources and even protecting existing buildings! Workers also have an experience and leveling system: the more they work, the more experience they'll get, allowing them to complete their tasks a lot faster.
+    The freedom and convenience given by this mod allows anyone to build many different cities: they can be small, specialized villages or big and vibrant metropolis. The possibilities are endless!
+
+
+
 For Users
 --
 
